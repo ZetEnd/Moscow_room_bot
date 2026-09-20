@@ -1,0 +1,4 @@
+SQLAlchemy>=2.0
+asyncpg
+pydantic-settings
+python-dotenv

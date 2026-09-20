@@ -1,0 +1,3 @@
+.venv\Scripts\activate
+
+from the project root (D:\VS_Code\moscow_room_bot):
